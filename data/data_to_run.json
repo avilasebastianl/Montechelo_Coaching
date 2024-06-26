@@ -1,0 +1,22 @@
+[
+    {
+        "cid": 1,
+        "table_name": "agents",
+        "column_name": "created_at"
+    },
+    {
+        "cid": 2,
+        "table_name": "clasificacion_items",
+        "column_name": "created_at"
+    },
+    {
+        "cid": 3,
+        "table_name": "coachings",
+        "column_name": "created_at"
+    },
+    {
+        "cid": 4,
+        "table_name": "historial_coachings",
+        "column_name": "created_at"
+    }
+]

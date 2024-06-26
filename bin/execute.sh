@@ -1,0 +1,1 @@
+/home/usr-dwh/Documentos/Procesos/Montechelo_Coaching/venv/bin/python3 /home/usr-dwh/Documentos/Procesos/Montechelo_Coaching/Main.py -exe

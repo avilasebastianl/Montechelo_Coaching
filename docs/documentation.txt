@@ -1,0 +1,9 @@
+-l, --list : [ Lista las tablas con su respectiv o cid ]
+-exe, execute :[ Ejecuta cargue a dw y produccion de manera automatica. Sin paramentros ]
+# Formatos para las fechas YYYY-MM-DD HH:mm:ss
+-c, --cid : [ Ejecuta la tabla del respectivo cid. Puede pasar como argumentos fecha inicio y fecha fin ]
+    ex: -c 5 fecha_inicio fecha_fin
+-d, --distro : [ Ejecuta el cargue a produccion. Puede pasar como argumentos fecha inicio y fecha fin ]
+    ex: -distro distro 2024-04-02 00:00:00 2024-04-03 00:00:00
+-m, --matriz : [ Ejecuta el cargue a DW. Puede pasar como argumentos fecha inicio y fecha fin ]
+    ex: -dw 2024-04-02 00:00:00 2024-04-03 00:00:00
